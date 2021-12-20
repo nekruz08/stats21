@@ -1,5 +1,5 @@
-module github.com/nekruz08/stats
+module github.com/nekruz08/stats/v2
 
 go 1.17
 
-require github.com/nekruz08/bank v0.0.0-20211220222055-27712abbcd98
+require github.com/nekruz08/bank/v2 v2.0.0
